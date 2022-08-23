@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "GrowattAPI-MQTT", "GrowattAPI-MQTT\GrowattAPI-MQTT.pyproj", "{2FA6EFBD-3928-491E-AA19-5BA6829EB8F5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2FA6EFBD-3928-491E-AA19-5BA6829EB8F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2FA6EFBD-3928-491E-AA19-5BA6829EB8F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7693FD1F-4B67-4A2E-9E43-DBAD8D3DA75F}
+	EndGlobalSection
+EndGlobal
